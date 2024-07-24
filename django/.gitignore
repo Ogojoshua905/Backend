@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sql
+*.sqlite3
+
+# If you are using SQLite database files
+db.sqlite3
+
+# Django migrations
+**/migrations/
+
+# Caches
+**/staticfiles/
+**/media/
+**/static/
+
+# Local virtual environments
+venv/
+env/
+ENV/
+*.env
+*.venv
+.Python
+
+# Django specific files
+*.mo
+*.env
+*.pot
+**/migrations/
+**/migrations/**/000*.py
+**/migrations/**/001*.py
+**/migrations/**/002*.py
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+*.code-workspace
+
+# PyCharm
+.idea/
+.idea/*
+.idea/**/
+
+# mypy
+.mypy_cache/
+
+# Others
+*.DS_Store
+*.swp
+*.swo
