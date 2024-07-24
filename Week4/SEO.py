@@ -52,7 +52,7 @@ class SEO():
                 print(f"Description: {details['Description']}")
                 print("=" * 10)
         else:
-            print("No events available")                                                                                                                                                                                                                                                                                                                                                           
+            print("No events available")                                                          
     
     def run_events(self):
         print(self.welcome)
